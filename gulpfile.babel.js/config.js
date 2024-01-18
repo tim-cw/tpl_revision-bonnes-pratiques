@@ -26,8 +26,8 @@ export const paths = {
     dest: 'dist/scripts',
   },
   templates: {
-    src: 'src/*.html',
-    watch: 'src/*.html',
+    src: 'src/*.{twig,html}',
+    watch: 'src/**/*.{twig,html}',
     dest: 'dist/',
   },
   assets: {
