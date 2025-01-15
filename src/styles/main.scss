@@ -3,7 +3,7 @@
 
 // TOOLS
 // mixins et fonctions utilisés globalement dans le SCSS (Sass)
-@import 'tools/cover';
+@import 'tools/typo';
 
 // SETTINGS
 // Contient les variables sur les polices, les définitions de couleurs, les définitions de  grandeurs,   etc.
@@ -40,7 +40,3 @@
 @import 'components/button';
 @import 'components/gallery';
 @import 'components/wall';
-
-// UTILITIES
-// Utilitaires et classes auxiliaires avec possibilité de remplacer tout ce qui précède, par exemple masquer les éléments de la page
-@import 'utilities/accessibility';

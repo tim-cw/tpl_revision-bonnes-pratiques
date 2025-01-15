@@ -30,3 +30,8 @@ Les erreurs peuvent autant être des problématiques d'accessibilité, d'éléme
 13.
 14.
 15.
+
+
+
+<hr><br>
+Préparé par : Jean-François Leblanc et Matthieu Parent _timtools v1.4.1_

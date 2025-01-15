@@ -25,10 +25,10 @@
 }
 .footer__brand {
     padding-bottom: var(--spacing-lg);
+    display: flex;
     img {
         display: block;
     }
-    display: flex;
     @media screen and (min-width: $breakpoint-md) {
     }
 }
